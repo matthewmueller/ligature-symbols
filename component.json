@@ -2,7 +2,7 @@
   "name": "ligature-symbols",
   "repo": "matthewmueller/ligature-symbols",
   "description": "ligature symbol set",
-  "version": "0.0.1",
+  "version": "2.11.0",
   "keywords": ["icons", "ligature", "icon", "font"],
   "dependencies": {},
   "development": {},
