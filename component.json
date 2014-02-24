@@ -3,11 +3,16 @@
   "repo": "matthewmueller/ligature-symbols",
   "description": "ligature symbol set",
   "version": "2.11.0",
-  "keywords": ["icons", "ligature", "icon", "font"],
+  "keywords": [
+    "icons",
+    "ligature",
+    "icon",
+    "font"
+  ],
   "dependencies": {},
   "development": {},
   "license": "SIL",
-  "fonts" : [
+  "fonts": [
     "ligature.eot",
     "ligature.svg",
     "ligature.ttf",
